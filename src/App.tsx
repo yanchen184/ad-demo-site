@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import MockAd from './components/MockAd';
 
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.1.0';
 
 const articles = [
   { id: 1, title: '如何在網站中加入 Google AdSense 廣告', category: '教學', date: '2024-01-15', readTime: '5 分鐘', content: 'Google AdSense 是目前最受歡迎的網站廣告變現平台之一。本文將介紹如何在你的網站中整合 AdSense 廣告。' },
